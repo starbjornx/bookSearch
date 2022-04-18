@@ -29,17 +29,19 @@ bookSearch Engine
 
 ## Key Features
 
-
+the ability to search for any book
 
 ## How To Use
 
-
+type in the search area the book name of your choice.
 
 ## Download
 
+  not a PWA website.
+  
 ## Credits
 
-
+go to Kyle Henriksen
 
 ## Authors
 
@@ -83,7 +85,7 @@ Current games I play
 
 ## License
 
-## MIT
+
 
 </body>
 </html>
