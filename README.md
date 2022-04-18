@@ -33,19 +33,13 @@ My Portfolio
 
 ## How To Use
 
-[go to my website ](https://starbjornx.github.io/official_portfolio/)
-![MyWebsite](./updatedportfolio.png)
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
 
 ## Download
 
-go to my portfolio website to view any downloadable content. [click here!](https://starbjornx.github.io/official_portfolio/) like my [resume`](./resume.pdf)
-
 ## Credits
 
-This software uses the following open source packages:
 
-- [bootstrap](https://getbootstrap.com/)
 
 ## Authors
 
