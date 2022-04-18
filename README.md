@@ -29,7 +29,7 @@ My Portfolio
 
 ## Key Features
 
-You get to view all my recent work and contact me if you are interested in networking together and collaborate together new material.
+
 
 ## How To Use
 
